@@ -1,1 +1,1 @@
-scripting the 6-create_local_variable
+scripting in file 7-create_global_variable
