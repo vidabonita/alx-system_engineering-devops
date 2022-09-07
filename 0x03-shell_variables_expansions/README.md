@@ -1,1 +1,1 @@
-scripting 6-create_local_variable
+scripting the 6-create_local_variable
