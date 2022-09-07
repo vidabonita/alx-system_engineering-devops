@@ -1,1 +1,1 @@
-scripting in file 7-create_global_variable
+scripting 8-true_knowledge
